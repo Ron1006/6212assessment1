@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/6212assessment1/static/css/main.670afebd.css",
+    "main.js": "/6212assessment1/static/js/main.257d7cd1.js",
+    "static/media/scp002bg.jpg": "/6212assessment1/static/media/scp002bg.a54a47446af93f8b43e4.jpg",
+    "static/media/logo.png": "/6212assessment1/static/media/logo.712a0040292dfc285f19.png",
+    "static/media/cross.svg": "/6212assessment1/static/media/cross.9b67f6bf7925ad78816c.svg",
+    "index.html": "/6212assessment1/index.html",
+    "main.670afebd.css.map": "/6212assessment1/static/css/main.670afebd.css.map",
+    "main.257d7cd1.js.map": "/6212assessment1/static/js/main.257d7cd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.670afebd.css",
+    "static/js/main.257d7cd1.js"
+  ]
+}
